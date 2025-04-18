@@ -532,7 +532,7 @@ def solve_via_softmax_gd(X_train, t_train, X_valid, t_valid,
 
 def main():
     # the options have to be set to avoid from "None" being interpreted as python None
-    df_raw = pd.read_csv("data/cleaned_data_combined_modified.csv",
+    df_raw = pd.read_csv("data/cleaned_data_combined.csv",
                          keep_default_na=False,
                          na_filter=False)
 

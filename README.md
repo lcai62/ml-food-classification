@@ -6,7 +6,7 @@ This project explores survey responses related to three food items — **Pizza**
 
 ## Dataset
 
-Survey questions included:
+Survey questions included in ```questions.md```
 
 - Complexity rating (1 to 5)
 - Expected number of ingredients (free-form text)
@@ -74,4 +74,12 @@ cd ml-food-classification
 pip install -r requirements.txt
 ```
 
+3. Train model
+```bash
+python3 generate.py
+```
 
+4. Make predictions
+```bash
+python3 pred.py
+```

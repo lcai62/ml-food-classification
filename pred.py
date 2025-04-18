@@ -320,6 +320,6 @@ def predict_all(csv_filename: str):
 
 
 if __name__ == "__main__":
-    preds = predict_all("test.csv")
+    preds = predict_all("data/cleaned_data_combined.csv")
     print("Predictions:", preds)
 
