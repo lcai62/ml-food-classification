@@ -2,6 +2,15 @@
 
 This project explores survey responses related to three food items — **Pizza**, **Shawarma**, and **Sushi** to build a custom multi-class classification model.
 
+
+## Built With
+
+[![Python][python-shield]][python-url]  
+[![NumPy][numpy-shield]][numpy-url]  
+[![Pandas][pandas-shield]][pandas-url]  
+[![Matplotlib][matplotlib-shield]][matplotlib-url]
+
+
 ---
 
 ## Dataset
@@ -83,3 +92,27 @@ python3 generate.py
 ```bash
 python3 pred.py
 ```
+
+[python-shield]: https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white
+[python-url]: https://www.python.org/
+
+[fastapi-shield]: https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi
+[fastapi-url]: https://fastapi.tiangolo.com/
+
+[react-shield]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[react-url]: https://reactjs.org/
+
+[electron-shield]: https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=9FEAF9
+[electron-url]: https://www.electronjs.org/
+
+[tailwind-shield]: https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white
+[tailwind-url]: https://tailwindcss.com/
+
+[numpy-shield]: https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy
+[numpy-url]: https://numpy.org/
+
+[pandas-shield]: https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas
+[pandas-url]: https://pandas.pydata.org/
+
+[matplotlib-shield]: https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib
+[matplotlib-url]: https://matplotlib.org/
